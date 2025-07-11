@@ -18,4 +18,4 @@
 
 平台鼓励用户参与互动，您可以在影片下方发表评论、评分，或者与其他影迷分享您的观影心得。这不仅可以帮助其他人发现好影片，也让您和影迷们有更多的交流机会。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/fkt20250711/fkt12 )</span>
